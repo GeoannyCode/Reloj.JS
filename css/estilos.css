@@ -1,0 +1,29 @@
+body{
+  background: #687980;
+}
+
+#reloj{
+  font-family: sans-serif;
+  font-size: 60px;
+  text-shadow: 0px 0px 1px #333;
+  color: #fefecc;
+}
+
+.reloj-contenedor{
+  background-color: #02475e;
+  padding: 25px;
+  max-width: 350px;
+  text-align: center;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 10%;
+}
+
+#fecha{
+  letter-spacing: 10px;
+  font-size: 15px;
+}
+
+.animar{
+  font-size: 61px;
+}
